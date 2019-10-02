@@ -1,0 +1,11 @@
+
+.homeImage {
+  height: 60rem;
+  background-color: white;
+  background: url("../images/grapefarm.jpeg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
